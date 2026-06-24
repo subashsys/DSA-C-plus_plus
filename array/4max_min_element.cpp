@@ -9,7 +9,7 @@ int main(){
     for( i=0;i<size;i++){
         cin>>height[i];
     }
-//suru ko element ali thulo suppose garne, ani aru sanga compare garne,
+//suru ko element thulo suppose garne, ani aru sanga compare garne,
 // thulo cha vane max ko value update garne //minimum pani same logic
     int MAX=height[0]; 
     for(i=0;i<size;i++){
